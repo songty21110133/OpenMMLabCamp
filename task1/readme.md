@@ -20,7 +20,7 @@
 - 图像结果
 ![](./src/my_ear_det.jpg)
 - 视频结果(为方便查看转为gif格式)
-
+![](./src/my_ear_det.gif)
 ## 关键点检测结果
 - 测试集评估指标
   ```angular2html
@@ -42,3 +42,4 @@
 - 图像结果
 ![](./src/my_ear_pose.jpg)
 - 视频结果(为方便查看转为gif格式)
+![](./src/my_ear_pose.gif)
