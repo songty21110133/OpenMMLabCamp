@@ -18,9 +18,9 @@
     06/06 15:00:09 - mmengine - INFO - Epoch(test) [11/11]  coco/bbox_mAP: 0.8090  coco/bbox_mAP_50: 0.9680  coco/bbox_mAP_75: 0.9680  coco/bbox_mAP_s: -1.0000  coco/bbox_mAP_m: -1.0000  coco/bbox_mAP_l: 0.8090data_time: 0.5773  time: 0.6206  
     ```
 - 图像结果
-![](./src/my_ear_det.jpg)
+    - ![](./src/my_ear_det.jpg)
 - 视频结果(为方便查看转为gif格式)
-![](./src/my_ear_det.gif)
+    - ![](https://github.com/songty21110133/OpenMMLabCamp/blob/master/task1/src/my_ear_det.gif)
 ## 关键点检测结果
 - 测试集评估指标
   ```angular2html
@@ -40,6 +40,6 @@
   06/06 21:30:26 - mmengine - INFO - Epoch(test) [6/6]  coco/AP: 0.742738  coco/AP .5: 1.000000  coco/AP .75: 0.970297  coco/AP (M): -1.000000  coco/AP (L): 0.742738  coco/AR: 0.790476  coco/AR .5: 1.000000  coco/AR .75: 0.976190  coco/AR (M): -1.000000  coco/AR (L): 0.790476  PCK: 0.976190  AUC: 0.135317  NME: 0.039376data_time: 1.938691  time: 1.979971  
   ```
 - 图像结果
-![](./src/my_ear_pose.jpg)
+    - ![](./src/my_ear_pose.jpg)
 - 视频结果(为方便查看转为gif格式)
-![](./src/my_ear_pose.gif)
+    - ![](https://github.com/songty21110133/OpenMMLabCamp/blob/master/task1/src/my_ear_pose.gif)
