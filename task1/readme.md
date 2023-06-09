@@ -1,4 +1,6 @@
 # MMCamp第一次作业
+- 学习笔记
+  - [AI实战营第二期_03MMPose实战_学习笔记](https://bbs.csdn.net/topics/615773111)
 ## 目标检测结果
 - 测试集评估指标
     ```angular2html

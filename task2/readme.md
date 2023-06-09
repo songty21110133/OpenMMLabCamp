@@ -1,5 +1,6 @@
 # MMCamp第二次作业
-
+0. 学习笔记
+   - [AI实战营第二期_05MMPretrain实战_学习笔记](https://bbs.csdn.net/topics/615802794)
 1. 划分数据集
    - 参照网上教程利用`split-folders`划分数据集
      ```angular2html
